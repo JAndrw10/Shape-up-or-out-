@@ -1,0 +1,15 @@
+#drawBoard {
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+    position: relative; 
+}
+
+
+#shapeinfo-container{
+    margin-left: 75px;
+    background-color:navy;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
